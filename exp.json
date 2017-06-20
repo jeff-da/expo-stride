@@ -1,0 +1,36 @@
+{
+  "name": "expo-stripe",
+  "description": "An empty new project",
+  "slug": "expo-stripe",
+  "privacy": "public",
+  "sdkVersion": "17.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "icon": "./assets/icons/app.png",
+  "android": {
+    "package": "host.exp.stripeexample",
+    "versionCode": 1
+  },
+  "loading": {
+    "icon": "./assets/icons/loading.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": [
+      "ttf",
+      "mp4"
+    ]
+  },
+  "ios": {
+    "supportsTablet": true,
+    "bundleIdentifier": "host.exp.stripeexample",
+    "buildNumber": "1"
+  },
+  "isDetached": true,
+  "detach": {
+    "scheme": "expde680588672f42daa982eb30aa559c3e",
+    "iosExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/ios-v1.16.2-sdk17.0.0-b5bce87c-1a42-4b6d-888f-877f855c9680.tar.gz",
+    "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v1.16.1-sdk17.0.0-87570a36-13ff-4017-9b89-6c9930b78572.tar.gz"
+  }
+}
